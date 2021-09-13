@@ -295,7 +295,7 @@ if (answer)
     console.log("you said false");
 }
 
-let state = "FL";
+let state = "NY";
 let taxrate = 0;
 
 if (state === "FL")
